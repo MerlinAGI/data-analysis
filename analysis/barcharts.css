@@ -1,0 +1,3 @@
+.recharts-cartesian-grid-vertical line:first-child {
+  visibility: hidden;
+}
